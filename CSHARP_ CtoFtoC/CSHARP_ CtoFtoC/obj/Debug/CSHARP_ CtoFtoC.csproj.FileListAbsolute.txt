@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\bin\Debug\CSHARP_ CtoFtoC.exe.config
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\bin\Debug\CSHARP_ CtoFtoC.exe
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\bin\Debug\CSHARP_ CtoFtoC.pdb
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\obj\Debug\CSHARP_ CtoFtoC.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\obj\Debug\CSHARP_ CtoFtoC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\obj\Debug\CSHARP_ CtoFtoC.exe
+C:\Users\Administrator\source\repos\CSHARP_ CtoFtoC\CSHARP_ CtoFtoC\obj\Debug\CSHARP_ CtoFtoC.pdb
