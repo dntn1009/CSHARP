@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CSHARP_DELEGATE\CSHARP_DELEGATE3\bin\Debug\CSHARP_DELEGATE3.exe.config
+C:\Users\Administrator\source\repos\CSHARP_DELEGATE\CSHARP_DELEGATE3\bin\Debug\CSHARP_DELEGATE3.exe
+C:\Users\Administrator\source\repos\CSHARP_DELEGATE\CSHARP_DELEGATE3\bin\Debug\CSHARP_DELEGATE3.pdb
+C:\Users\Administrator\source\repos\CSHARP_DELEGATE\CSHARP_DELEGATE3\obj\Debug\CSHARP_DELEGATE3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_DELEGATE\CSHARP_DELEGATE3\obj\Debug\CSHARP_DELEGATE3.exe
+C:\Users\Administrator\source\repos\CSHARP_DELEGATE\CSHARP_DELEGATE3\obj\Debug\CSHARP_DELEGATE3.pdb
