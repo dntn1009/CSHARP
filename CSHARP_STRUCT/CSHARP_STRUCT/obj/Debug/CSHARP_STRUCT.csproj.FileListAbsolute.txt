@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\bin\Debug\CSHARP_STRUCT.exe.config
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\bin\Debug\CSHARP_STRUCT.exe
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\bin\Debug\CSHARP_STRUCT.pdb
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\obj\Debug\CSHARP_STRUCT.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\obj\Debug\CSHARP_STRUCT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\obj\Debug\CSHARP_STRUCT.exe
+C:\Users\Administrator\source\repos\CSHARP_STRUCT\CSHARP_STRUCT\obj\Debug\CSHARP_STRUCT.pdb
