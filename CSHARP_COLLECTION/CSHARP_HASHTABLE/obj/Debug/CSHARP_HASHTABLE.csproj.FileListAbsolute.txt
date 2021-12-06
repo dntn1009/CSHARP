@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_HASHTABLE\bin\Debug\CSHARP_HASHTABLE.exe.config
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_HASHTABLE\bin\Debug\CSHARP_HASHTABLE.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_HASHTABLE\bin\Debug\CSHARP_HASHTABLE.pdb
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_HASHTABLE\obj\Debug\CSHARP_HASHTABLE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_HASHTABLE\obj\Debug\CSHARP_HASHTABLE.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_HASHTABLE\obj\Debug\CSHARP_HASHTABLE.pdb

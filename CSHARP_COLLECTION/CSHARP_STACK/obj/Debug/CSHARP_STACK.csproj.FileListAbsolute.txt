@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_STACK\bin\Debug\CSHARP_STACK.exe.config
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_STACK\bin\Debug\CSHARP_STACK.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_STACK\bin\Debug\CSHARP_STACK.pdb
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_STACK\obj\Debug\CSHARP_STACK.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_STACK\obj\Debug\CSHARP_STACK.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_STACK\obj\Debug\CSHARP_STACK.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_GENERIC\bin\Debug\CSHARP_GENERIC.exe.config
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_GENERIC\bin\Debug\CSHARP_GENERIC.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_GENERIC\bin\Debug\CSHARP_GENERIC.pdb
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_GENERIC\obj\Debug\CSHARP_GENERIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_GENERIC\obj\Debug\CSHARP_GENERIC.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_GENERIC\obj\Debug\CSHARP_GENERIC.pdb

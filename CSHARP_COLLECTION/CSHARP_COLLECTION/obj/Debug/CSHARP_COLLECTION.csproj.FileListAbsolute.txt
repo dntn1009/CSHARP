@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_COLLECTION\bin\Debug\CSHARP_COLLECTION.exe.config
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_COLLECTION\bin\Debug\CSHARP_COLLECTION.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_COLLECTION\bin\Debug\CSHARP_COLLECTION.pdb
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_COLLECTION\obj\Debug\CSHARP_COLLECTION.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_COLLECTION\obj\Debug\CSHARP_COLLECTION.exe
+C:\Users\Administrator\source\repos\CSHARP_COLLECTION\CSHARP_COLLECTION\obj\Debug\CSHARP_COLLECTION.pdb
