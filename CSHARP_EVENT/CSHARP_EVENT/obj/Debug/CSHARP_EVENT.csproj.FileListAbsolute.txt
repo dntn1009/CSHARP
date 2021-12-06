@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\bin\Debug\CSHARP_EVENT.exe.config
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\bin\Debug\CSHARP_EVENT.exe
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\bin\Debug\CSHARP_EVENT.pdb
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.Form1.resources
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.exe
+C:\Users\Administrator\source\repos\CSHARP_EVENT\CSHARP_EVENT\obj\Debug\CSHARP_EVENT.pdb
